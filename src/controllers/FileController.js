@@ -23,4 +23,4 @@ class FileController{
     }
 }
 
-module.exports = new FileController;
+module.exports = new FileController();
